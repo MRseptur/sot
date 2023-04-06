@@ -1,0 +1,263 @@
+/* CSS Document */
+/**. colors # 2cb49c
+            # 80d5ad
+			# 244c5c
+			# 5b9d86
+			# 26724e
+			# 344a53 */
+
+h1, h2, h3, h4, h5, h6, ul, li, a, blockquote, table, header, body, footer, nav, main  {
+    padding: 0;
+    margin: 0;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+	body {
+	background-color: #344a53;
+		overflow-x: hidden;
+}
+.skullphoto {
+	position: relative;
+	bottom: 80px
+}
+
+.tnav {
+	background-color: #244c5c;
+	padding-bottom: 50px;
+		position: sticky;
+}
+
+.tnav ul{
+	display: block;
+	padding-left: 450px;
+	position: relative;
+	top: 42px
+}
+
+
+
+.tnav ul li{
+	display: inline-block;
+	list-style: none;
+	width: 19%;
+	text-align: center;
+	
+	
+}
+
+.tnav a  {
+	color: #2cb49c;
+	font-size: 1.4em;
+	text-decoration: none;
+}
+
+.tnav a:hover {
+	color: #2cb49c;
+	text-shadow: 1px 1px 9px #A6E1C5;
+	text-decoration: underline;
+	font-size: 1.5em;
+}
+
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+header {
+	background-color: #4E8773;
+	position: relative;
+	bottom: 85px;
+	padding-bottom: 100px;
+	border-bottom: solid thick #26724e;
+	
+}
+
+.homephoto{
+	background-image: url("../images/Sea of Thieves index-header.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.storypj{
+	background-image: url("../images/Sea of Thieves story-header.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position: -200px -347px;
+
+}
+.curancypj{
+	background-image: url("../images/Sea of Thieves curancy-header.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position: 0px -539px;
+}
+.topphoto {
+	background-image: url("../images/Sea of Thieves licensesand newsletter.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position: px -509px;
+}
+header h1 {
+	color: #80d5ad;
+		text-shadow: 0px -2px 1px #D4F1E3;
+text-align: center;
+	font-size: 7em;
+	position: relative;
+	top: 50px;
+	
+}
+header h2 {
+	color: #80d5ad;
+		text-shadow: 0px 2px 1px #D4F1E3;
+text-align: center;
+	font-size: 4em;
+	position: relative;
+	top: 60px;
+}
+
+/*//////////////////////////////////////////////b o d y////////////////////////////////////////////////////////////////////////////*/
+
+
+.middlesection p  {
+	overflow-x: auto;
+	text-align: left;
+	color: #80d5ad;
+	font-size: 1.3em;
+	margin-right: 780px;
+	margin-left: 20px;
+	text-shadow: 1px 2px 3px #5b9d86;
+}
+.middlesection h3 {
+	overflow-x: auto;
+	text-align: left;
+	color: #80d5ad;
+	font-size: 1.3em;
+	margin-right: 780px;
+	margin-left: 20px;
+	text-shadow: 1px 2px 3px #5b9d86;
+}
+.middlesection h2 {
+	overflow-x: auto;
+	text-align: left;
+	color: #80d5ad;
+	font-size: 3.7em;
+	margin-left: 80px;
+	margin-bottom:  50px;
+	text-shadow: 1px 2px 3px #5b9d86;
+}
+
+
+
+.sith2 {
+		overflow-x: auto;
+	text-align: left;
+	color: #80d5ad;
+	font-size: 3em;
+text-align: center;
+	margin-bottom:  60px;
+	text-shadow: 1px 2px 3px #5b9d86;
+}
+
+.sith3 {
+	overflow-x: auto;
+	text-align: left;
+	color: #80d5ad;
+	font-size: 2em;
+	margin-left: 40px;
+	margin-bottom:  50px;
+	text-shadow: 1px 2px 3px #5b9d86;
+	
+}
+.sithp {
+	overflow-x: auto;
+	text-align: left;
+	color: #80C4D5;
+	font-size: 1.6em;
+	margin-left: 80px;
+	margin-bottom:  50px;
+	text-shadow: 1px 2px 3px #5b9d86;
+}
+footer {
+	margin-top: 5%;
+	background-color: #244c5c;
+	clear: both;
+	height: 100px;
+	position: sticky;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
+
+footer p {
+	color: #5b9d86;
+	text-align: center;
+	
+}
+
+
+.news {
+	font-size: 300%;
+		font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+color: #F0F9F4;
+	text-shadow: 2px 2px 1px #5b9d86 ;
+text-align: center;}
+
+#sum {
+	margin-left: 470px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
